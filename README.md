@@ -1,13 +1,14 @@
-Python for Geosciences
+Python para geociências
 ======================
 
-This is a short overview of how Python is used in science and particularly in geosciences. 
-The idea is to show how to setup Python for purposes of scientific computation and visualization, cover some basic features of the language and show some of the real world applications such as:
+Este é um livro sobre como Python pode ser usado em estudos científicos, focando geociências, esta é uma versão em português de um trabalho. A tradução e expansão do material está em andamento. Críticas são bem-vindas.
 
-* Array manipulations.
-* I/O (binary, txt, netCDF, mat).
-* Creation of maps and graphics.
-* Time series analysis.
+A ideia é mostrar como usar Python em computação científica e na visualização dos resultados,estudar o básico da linguagem e mostrar como usá-la em aplicações do mundo real, tais como:
+
+* Manipulação de arrays,
+* Entrada e saída de dados (binário, txt, netCDF, mat),
+* Criação de mapas e gráficos,
+* Análise de séries temporais. 
 
 This overview is aimed at the scientists who are interested in Python but don't know how to start using it (this might be really confusing for a newcomer), or would like to learn more about possible Python applications. For those of you who already use Python there will be nothing really new.
 
