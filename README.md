@@ -40,4 +40,5 @@ Links to nbviewer versions
 Autores
 ========
 Jonas Augusto
+
 Nikolay Koldunov -- koldunovn@gmail.com
