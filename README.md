@@ -37,8 +37,7 @@ Links to nbviewer versions
 
 [Links](http://nbviewer.ipython.org/urls/raw.github.com/koldunovn/python_for_geosciences/master/Links.ipynb)
 
-Author
+Autores
 ========
-Nikolay Koldunov
-
-koldunovn@gmail.com
+Jonas Augusto
+Nikolay Koldunov -- koldunovn@gmail.com
